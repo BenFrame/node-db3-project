@@ -10,7 +10,7 @@ const checkSchemeId = (req, res, next) => {
 
 }
 
-/*
+/*   
   If `scheme_name` is missing, empty string or not a string:
 
   status 400
